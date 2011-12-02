@@ -1,0 +1,9 @@
+table td {
+    border-top: 0px solid #DDDDDD;
+    vertical-align: top;
+}
+table th, table td {
+    line-height: 18px;
+    padding: 0px 0px 0px;
+    text-align: left;
+}
